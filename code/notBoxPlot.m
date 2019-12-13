@@ -96,12 +96,6 @@ function varargout=notBoxPlot(y,x,varargin)
 %  For more run:
 %   NBP.statsOptionsExamples
 %
-% 4 - Overlaying different notBoxPlots on one axis
-% >> clf
-% >> hold on
-% >> for ii=1:8; notBoxPlot(rand(1,ii*10),ii), end 
-%
-%
 % Rob Campbell - August 2016
 %
 % Also see: boxplot
